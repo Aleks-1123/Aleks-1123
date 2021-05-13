@@ -10,8 +10,8 @@
 
 Hi, I'm Aleks, backend Developer
 
-- 🔭 I’m currently working on  [Lambda](https://lambdabot.xyz)
-- 💬 Ask me about anything [here](http://lambdabot.xyz)
+- 🔭 I’m currently working on  [Delover](https://delover.xyz)
+- 💬 Ask me about anything [here](http://delover.xyz)
 
 **Languages and Tools:**  
 
